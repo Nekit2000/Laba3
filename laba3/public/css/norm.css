@@ -1,0 +1,45 @@
+.header {
+    color:white;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+p {
+    color:#5D5D5D;
+}
+.head p {
+    font-family: 'Montserrat', sans-serif;
+    font-size:12px;
+}
+
+.head button {
+    background-color: #231b30;
+    border:none;
+    padding:10px 40px;
+    border-radius: 40px;
+}.head button:hover {
+     background-color: #C15B00;
+ }
+
+.head {
+    padding:150px 90px;
+}
+.col-lg-6{
+    margin-top: 100px;
+    margin-left: 1100px;
+}
+.carousel-control-prev-icon {
+    background-image: url(../image/12.jpg);
+    width: 32px;
+    height: 32px;
+}
+.carousel-control-next-icon {
+    background-image: url(../image/250px-Serious_sam_logo.jpg);
+    width: 32px;
+    height: 32px;
+}
